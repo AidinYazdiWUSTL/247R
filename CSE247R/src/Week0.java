@@ -152,7 +152,6 @@ public class Week0 {
 				finalarr[i] = arr2[arr2Counter];
 				arr2Counter++;
 			}
-			System.out.println(Arrays.toString(finalarr));
 		}
 		return finalarr;
 	}
